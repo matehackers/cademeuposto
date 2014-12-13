@@ -35,5 +35,7 @@ Por consequência disto, nem sempre o posto de saúde mais próximo é a unidade
 Código aberto
 --
 
-O código destes aplicativos são software livre e estão disponíveis na [página do Github do Matehackers](https://github.com/matehackers).
+O código destes aplicativos são software livre e estão disponíveis na [página do Github](https://github.com/matehackers) do [Matehackers](http://matehackers.org).
+
+O processo de construção é documentado no [trac](https://trac.hi.ato.br/ticket/28).
 
