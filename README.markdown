@@ -39,3 +39,12 @@ O código destes aplicativos são software livre e estão disponíveis na [pági
 
 O processo de construção é documentado no [trac](https://trac.hi.ato.br/ticket/28).
 
+Aplicativos
+--
+
+### Serviço Web
+
+Serviço para buscar postos de saúde através de uma interface web.
+
+[Código fonte](https://github.com/matehackers/cademeuposto-web) [Demonstração](https://github.com/matehackers/cademeuposto-web)
+
